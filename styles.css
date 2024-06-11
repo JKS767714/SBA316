@@ -1,0 +1,81 @@
+body {
+    height: 100%;
+    background: url("camp.jpeg") no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    display: block;
+}
+
+.todo {
+    display: block;
+}
+
+#centerbtn {
+    display: flex;
+    justify-content: center;
+}
+
+.camp-list-container {
+    width: 350px;
+    padding: 20px 10px;
+    background-color: white;
+    border-radius: 20px;
+
+    display: flex;
+
+}
+
+button {
+    background-color: green;
+    border-radius: 20px;
+}
+
+button:hover {
+    color: white;
+
+}
+
+.container {
+    background-color: aquamarine;
+    padding: 70px;
+}
+
+#fname {
+    margin-bottom: 10px;
+}
+#lname {
+    margin-bottom: 10px;
+}
+
+.trash{
+    background-color: red;
+}
+
+.images {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px
+}
+
+#shirt:hover{
+
+    height:300px;
+    width: 300px;
+
+}
+
+#water:hover{
+    height: 300px;
+    width: 300px;
+}
+#cooler:hover{
+
+    height: 300px;
+    width:300px;
+    tex
+    
+}
